@@ -6,6 +6,11 @@ using Monte Carlo simulation. Given a cost structure and demand behavior,
 it identifies the price that maximizes expected profit across thousands 
 of simulated scenarios.
 
+## Live Demo
+🔗 [Try the interactive app here](https://github.com/LucassTejerina/pricing-montecarlo-model)
+
+![App Screenshot](images/app_screenshot.png)
+
 ## Methodology
 - Demand is modeled as a **normal distribution** with price-dependent mean
 - **Price elasticity** adjusts expected demand as price changes
