@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Monte Carlo Pricing Model
 
 ## Overview
@@ -37,7 +36,3 @@ The model outputs:
 ## Author
 Lucas Tejerina — Actuarial Science Student, UBA  
 Quantitative Finance | Risk Modeling | Data Analysis
-=======
-# pricing-montecarlo-model
-Monte Carlo simulation for optimal pricing under demand uncertainty
->>>>>>> f5ca1c9c9e66a887a59681a65d35e8491b156298
